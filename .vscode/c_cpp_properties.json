@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ycr/catkin_web/devel/include/**",
+        "/home/ycr/lio/devel/include/**",
+        "/home/ycr/catkin_socket/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ycr/catkin_GPS/src/GPS_pkg/gps_viewer/include/**",
+        "/home/ycr/lio/src/LIO-SAM/include/**",
+        "/home/ycr/catkin_socket/src/robotsocket/include/**",
+        "/home/ycr/catkin_web/src/web_video_server/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
